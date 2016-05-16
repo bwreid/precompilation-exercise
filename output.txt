@@ -1,0 +1,5 @@
+# Welcome to {{ author.name }}'s Blog
+### Written by {{ author.name }} on {{ createdAt }}
+
+p Lorem ipsum dolor sit amet, consectetur adipisicing elit
+p Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
